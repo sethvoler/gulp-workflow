@@ -1,9 +1,9 @@
-# gulp-workflow
+# g-workflow
 
 ## Useage
 
 ```bash
-$ npm i gulp-workflow -D
+$ npm i g-workflow -D
 
 $ touch workflow.config.js
 ```
