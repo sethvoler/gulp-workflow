@@ -6,6 +6,12 @@
 $ npm i g-workflow -D
 
 $ touch workflow.config.js
+
+$ gulp-workflow clean
+
+$ gulp-workflow dev
+
+$ gulp-workflow build
 ```
 
 ### workflow.config.js
